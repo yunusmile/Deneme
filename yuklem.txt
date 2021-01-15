@@ -1,1 +1,6 @@
-yare
+$ git add 
+$ git commit -m "Add existing file"
+$ git push
+
+
+get clone
