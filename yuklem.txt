@@ -4,3 +4,4 @@ $ git push
 
 
 get clone
+git checkout branch1    veya main
